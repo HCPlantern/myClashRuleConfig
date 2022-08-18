@@ -1,0 +1,2 @@
+# myClashRuleConfig
+ clash rule
