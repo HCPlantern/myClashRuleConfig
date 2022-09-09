@@ -2,5 +2,9 @@
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 
-# System Update
+# OndDrive Delivery
+# http://public.bn.files.1drv.com/
+DOMAIN-SUFFIX,files.1drv.com
+
+# System Updatei
 DOMAIN-SUFFIX,delivery.mp.microsoft.com 
