@@ -13,6 +13,6 @@ DOMAIN-SUFFIX,pornemby.maoxiong.cloud
 IP-CIDR,142.54.186.202/16
 
 # Terminus 终点站
-DOMAIN-SUFFIX,pub1.emby.wtf:443
-DOMAIN-SUFFIX,pub2.emby.wtf:443
-DOMAIN-SUFFIX,pub3.emby.wtf:443
+DOMAIN-SUFFIX,emby.wtf:443
+DOMAIN-SUFFIX,emby.wtf:443
+DOMAIN-SUFFIX,emby.wtf:443
