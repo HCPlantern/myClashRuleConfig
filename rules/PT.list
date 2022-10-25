@@ -6,16 +6,7 @@ DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,ihdbits.me
 DOMAIN-SUFFIX,www.pttime.org
 
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,.torrent
-DOMAIN-KEYWORD,peer_id=
-DOMAIN-KEYWORD,info_hash
-DOMAIN-KEYWORD,get_peers
-DOMAIN-KEYWORD,find_node
-DOMAIN-KEYWORD,BitTorrent
-DOMAIN-KEYWORD,announce_peer
-DOMAIN-KEYWORD,announce.php?passkey=
-
+# 一些 PT 站点
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,aidoru-online.me
 DOMAIN-SUFFIX,alpharatio.cc
