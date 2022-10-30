@@ -1,0 +1,5 @@
+# jetbrains
+DOMAIN-SUFFIX,download-cdn.jetbrains.com
+DOMAIN-SUFFIX,download.jetbrains.com
+# docker
+DOMAIN-SUFFIX,desktop.docker.com
