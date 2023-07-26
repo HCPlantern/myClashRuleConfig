@@ -1,2 +1,3 @@
 # 满帮官网直连
 DOMAIN-SUFFIX,amh-group.com
+IP-CIDR,10.190.192.0/24
