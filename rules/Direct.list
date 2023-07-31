@@ -9,3 +9,7 @@ DOMAIN-SUFFIX,desktop.docker.com
 # jetbrains download
 DOMAIN-SUFFIX,download-cdn.jetbrains.com
 DOMAIN-SUFFIX,download.jetbrains.com
+
+# synology ddns
+DOMAIN-SUFFIX,ddns.synology.com
+DOMAIN-SUFFIX,checkip.synology.com
