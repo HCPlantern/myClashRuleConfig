@@ -5,3 +5,7 @@ IP-CIDR,10.190.192.0/24,no-resolve
 
 # docker
 DOMAIN-SUFFIX,desktop.docker.com
+
+# jetbrains download
+DOMAIN-SUFFIX,download-cdn.jetbrains.com
+DOMAIN-SUFFIX,download.jetbrains.com
