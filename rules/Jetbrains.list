@@ -1,3 +1,2 @@
 # jetbrains
-DOMAIN-SUFFIX,download-cdn.jetbrains.com
-DOMAIN-SUFFIX,download.jetbrains.com
+DOMAIN-SUFFIX,*.jetbrains.com
