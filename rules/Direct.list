@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX,amh-group.com
 DOMAIN-SUFFIX,ymm56.com
 IP-CIDR,10.190.192.0/24,no-resolve
+
+# docker
+DOMAIN-SUFFIX,desktop.docker.com
