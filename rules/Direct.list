@@ -13,3 +13,7 @@ DOMAIN-SUFFIX,download.jetbrains.com
 # synology ddns
 DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,checkip.synology.com
+
+# Malody V
+
+DOMAIN-SUFFIX,api.paimonnokoya.me
