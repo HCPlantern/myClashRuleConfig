@@ -1,6 +1,7 @@
 # OneDrive Upload and Download
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,api.onedrive.com
 
 # OndDrive Delivery
 # http://public.bn.files.1drv.com/
