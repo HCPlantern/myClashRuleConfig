@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,files.1drv.com
 
 # System Update
 DOMAIN-SUFFIX,delivery.mp.microsoft.com 
+
+# Office
+DOMAIN-SUFFIX,officecdn.microsoft.com
