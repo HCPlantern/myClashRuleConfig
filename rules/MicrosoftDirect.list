@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,api.onedrive.com
+DOMAIN-SUFFIX,storage.live.com
 
 # OndDrive Delivery
 # http://public.bn.files.1drv.com/
