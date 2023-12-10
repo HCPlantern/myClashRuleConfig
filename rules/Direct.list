@@ -15,5 +15,7 @@ DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,checkip.synology.com
 
 # Malody V
-
 DOMAIN-SUFFIX,api.paimonnokoya.me
+
+# rubberbandits
+DOMAIN-SUFFIX,rubberbandits.game
