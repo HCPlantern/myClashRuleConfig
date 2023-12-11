@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,api.paimonnokoya.me
 
 # rubberbandits
 DOMAIN-SUFFIX,rubberbandits.game
+
+# lets encrypt
+DOMAIN-SUFFIX,acme.zerossl.com
