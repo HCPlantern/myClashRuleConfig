@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,hackmd.io
 # AI 课代表
 DOMAIN-SUFFIX,www.kedaibiao.pro
+# docker
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
