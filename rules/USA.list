@@ -1,5 +1,6 @@
 # OpenAI
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
 # Hackmd.io 走其他节点
 DOMAIN-SUFFIX,hackmd.io
 # AI 课代表
