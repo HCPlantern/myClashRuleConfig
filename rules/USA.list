@@ -1,6 +1,8 @@
 # OpenAI
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
 # Gemini
 DOMAIN-SUFFIX,gemini.google.com
 # Hackmd.io 走其他节点
