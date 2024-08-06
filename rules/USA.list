@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,chatgpt.com
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 # Claude
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 # Gemini
 DOMAIN-SUFFIX,gemini.google.com
