@@ -37,3 +37,6 @@ DOMAIN-SUFFIX,qnap.com
 
 # boc
 DOMAIN-SUFFIX,mb.bochk.com
+
+# ibkr
+DOMAIN-SUFFIX,api.ibkr.com
