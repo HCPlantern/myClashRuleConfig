@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,www.kedaibiao.pro
 # docker
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
+
+# Apple banned domains
+DOMAIN-SUFFIX,identity.ess.apple.com
